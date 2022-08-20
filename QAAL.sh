@@ -4,19 +4,19 @@ read -p "whats the topic: " OOP
 echo "$OOP" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats question 1: " AAB
-echo "Q1: $AAB" >> $CFL.txt
+echo "Q1: $AAB?" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats question 2: " BBC
-echo "Q2: $BBC" >> $CFL.txt
+echo "Q2: $BBC?" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats question 3: " CCD
-echo "Q3: $CCD" >> $CFL.txt
+echo "Q3: $CCD?" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats question 4: " DDE
-echo "Q4: $DDE" >> $CFL.txt
+echo "Q4: $DDE?" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats question 5: " EEF
-echo "Q5: $EEF" >> $CFL.txt
+echo "Q5: $EEF?" >> $CFL.txt
 echo "" >> $CFL.txt
 echo "--" >> $CFL.txt
 echo "" >> $CFL.txt
