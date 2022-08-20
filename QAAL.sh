@@ -34,6 +34,9 @@ echo "A4: $IIJ" >> $CFL.txt
 echo "" >> $CFL.txt
 read -p "whats answer 5: " JJK
 echo "A5: $JJK" >> $CFL.txt
+echo "" >> $CFL.txt
+echo "Q=questions" >> $CFL.txt
+echo "A=answers" >> $CFL.txt
 #just changing vaules for safety incase of shell hijack
 CFL=$RANDOM
 OOP=$RANDOM
