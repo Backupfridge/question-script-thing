@@ -4,18 +4,18 @@ script that makes a text file and a simple question and answer layout
 free to modify and share but you must give me credit
 ---
 
-question: what dose "QAAL" mean?
+question: what dose "qst" mean?
 
-answer: "questions and answers layout"
+answer: "questions script thing"
 
 ---
 how to use
 
 1.download code <br />
 2.unzip <br />
-3.make sure you set permissions of the files "QAAL.sh" to be executable <br />
+3.make sure you set permissions of the files "QST.sh" to be executable <br />
 4.open terminal to the DIR of the files <br />
-5.run "./QAAL.sh" in terminal without qoutes 
+5.run "./QST.sh" in terminal without qoutes 
 6. choose your file name <br />
 7. open the file it has created <br />
 8. make sure the text editor its open in has auto reload turned on <br />
