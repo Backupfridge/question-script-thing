@@ -1,5 +1,7 @@
 # question-script-thing
-script that makes a text file and a simple question and answer layout 
+script that makes a text file and a simple question and answer layout
+---
+free to modify and share but you must give me credit
 ---
 
 question: what dose "QAAL" mean?
